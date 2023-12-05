@@ -1,3 +1,4 @@
+![logo](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Faisal Islam Shakib</h1>
 <h3 align="center">📚 I'm currently learning Computer Science & Engineering</h3>
 <img align="right" alt="coding"width="400"src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
