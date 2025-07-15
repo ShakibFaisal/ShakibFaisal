@@ -22,31 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakibfaisal&show_icons=true&locale=en" alt="shakibfaisal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakibfaisal&" alt="shakibfaisal" /></p>
-## 📊 GitHub Stats & Activity
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/okayabedin">
-        <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=okayabedin&show_icons=true&count_private=true&theme=default&hide_border=false&bg_color=ffffff&text_color=000000&icon_color=0969da&title_color=0969da&border_color=ddd&border_radius=6" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/okayabedin">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=okayabedin&theme=default&hide_border=false&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=0969da&border=ddd&border_radius=6" alt="GitHub Streak Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2">
-      <a href="https://github.com/okayabedin">
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=okayabedin&theme=minimal&hide_border=false&bg_color=ffffff&color=000000&area=true&area_color=0969da40&point=0969da&line=0969da&border_color=ddd&border_radius=6" alt="Activity Graph" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=okayabedin&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
