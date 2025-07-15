@@ -22,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakibfaisal&show_icons=true&locale=en" alt="shakibfaisal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakibfaisal&" alt="shakibfaisal" /></p>
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=ShakibFaisal&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
