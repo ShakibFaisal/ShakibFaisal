@@ -22,20 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakibfaisal&show_icons=true&locale=en" alt="shakibfaisal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakibfaisal&" alt="shakibfaisal" /></p>
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShakibFaisal&show_icons=true&count_private=true&theme=default&hide_border=false&bg_color=ffffff&text_color=000000&icon_color=0969da&title_color=0969da&border_color=ddd&border_radius=6" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShakibFaisal&theme=default&hide_border=false&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=0969da&border=ddd&border_radius=6" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShakibFaisal&theme=minimal&hide_border=false&bg_color=ffffff&color=000000&area=true&area_color=0969da40&point=0969da&line=0969da&border_color=ddd&border_radius=6" width="100%" />
-</p>
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ShakibFaisal&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-
