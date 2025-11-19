@@ -13,14 +13,14 @@
 
 💬 Ask me about Frontend Development (React, Tailwind, JavaScript) or MERN Stack.
 
-🌐 Explore My Portfolio [Your Portfolio Link] (share the link, I’ll update it)
+🌐 Explore My Portfolio **[Your Portfolio Link] (share the link, I’ll update it)**
 
-📝 I write and share insights on LinkedIn
- (https://www.linkedin.com/in/faisal-islam-shakib-98991b268/)
+📝 I write and share insights on **[LinkedIn]
+ (https://www.linkedin.com/in/faisal-islam-shakib-98991b268/)**
 
-📫 Reach me at [faisalshakib015@gmail.com
-] (faisalshakib015@gmail.com)
-<img align="right" alt="coding"width="400"src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+📫 Reach me at **[faisalshakib015@gmail.com]
+ (faisalshakib015@gmail.com)**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakibfaisal&label=Profile%20views&color=0e75b6&style=flat" alt="shakibfaisal" /> </p>
 <h1>👩‍💻 About Me :</h1>
