@@ -1,6 +1,25 @@
 ![logo](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Faisal Islam Shakib</h1>
 <h3 align="center">📚 I'm currently learning Computer Science & Engineering</h3>
+<!--- about --->
+
+👋 Hi, I’m Faisal Mollah (@ShakibFaisal)
+
+🖥️ I’m a Frontend Developer specialized in React.js and Tailwind CSS.
+
+🗄️ I work with Node.js, Express.js, and MongoDB on the backend.
+
+🚀 Currently learning and improving my skills in Next.js and Typescript.
+
+💬 Ask me about Frontend Development (React, Tailwind, JavaScript) or MERN Stack.
+
+🌐 Explore My Portfolio [Your Portfolio Link] (share the link, I’ll update it)
+
+📝 I write and share insights on LinkedIn
+ (https://www.linkedin.com/in/faisal-islam-shakib-98991b268/)
+
+📫 Reach me at [faisalshakib015@gmail.com
+] (faisalshakib015@gmail.com)
 <img align="right" alt="coding"width="400"src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakibfaisal&label=Profile%20views&color=0e75b6&style=flat" alt="shakibfaisal" /> </p>
