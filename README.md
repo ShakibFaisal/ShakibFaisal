@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi 👋, I'm Faisal Islam Shakib</h1>
-<h3 align="center">📚 I'm currently learning Computer Science & Engineering</h3>
+<h1 align="center">Hi 👋, I'm Faisal Mollah</h1>
+<h3 align="center">📚 I’m a Frontend Developer passionate about building modern, responsive web applications using React and Tailwind. I love working with the MERN stack and continuously learning new technologies to improve my craft.</h3>
 <!--- about --->
 
 <!--- about --->
