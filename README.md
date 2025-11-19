@@ -3,23 +3,21 @@
 <h3 align="center">📚 I'm currently learning Computer Science & Engineering</h3>
 <!--- about --->
 
-👋 Hi, I’m Faisal Mollah (@ShakibFaisal)
+<!--- about --->
 
-🖥️ I’m a Frontend Developer specialized in React.js and Tailwind CSS.
+<!--- about --->
 
-🗄️ I work with Node.js, Express.js, and MongoDB on the backend.
+- 👋 Hi, I’m **Faisal Mollah (@ShakibFaisal)**  
+- 🖥️ I’m a **Frontend Developer** specialized in **React.js and Tailwind CSS**.  
+- 🗄️ I work with **Node.js, Express.js, and MongoDB** on the backend.  
+- 🚀 Currently learning and improving my skills in **Next.js and Typescript**.  
+- 💬 Ask me about **Frontend Development (React, Tailwind, JavaScript)** or **MERN Stack**.  
+- 🌐 Explore My Portfolio **[Portfolio Link](YOUR_PORTFOLIO_LINK_HERE)**  
+- 📝 I regularly share updates on **[LinkedIn](https://www.linkedin.com/in/faisal-islam-shakib-98991b268/)**  
+- 📫 Feel free to reach me at **[Email](faisalshakib015@gmail.com)**  
 
-🚀 Currently learning and improving my skills in Next.js and Typescript.
+<br/>
 
-💬 Ask me about Frontend Development (React, Tailwind, JavaScript) or MERN Stack.
-
-🌐 Explore My Portfolio **[Your Portfolio Link] (share the link, I’ll update it)**
-
-📝 I write and share insights on **[LinkedIn]
- (https://www.linkedin.com/in/faisal-islam-shakib-98991b268/)**
-
-📫 Reach me at **[faisalshakib015@gmail.com]
- (faisalshakib015@gmail.com)**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakibfaisal&label=Profile%20views&color=0e75b6&style=flat" alt="shakibfaisal" /> </p>
