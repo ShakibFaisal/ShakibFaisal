@@ -14,7 +14,7 @@
 - 🗄️ I work with **Node.js, Express.js, and MongoDB** on the backend.  
 - 🚀 Currently learning and improving my skills in **Next.js and Typescript**.  
 - 💬 Ask me about **Frontend Development (React, Tailwind, JavaScript)** or **MERN Stack**.  
-- 🌐 Explore My Portfolio **[Portfolio Link](YOUR_PORTFOLIO_LINK_HERE)**  
+- 🌐 Explore My Portfolio **[Portfolio Link]([YOUR_PORTFOLIO_LINK_HERE](https://faisal-portfolio-pi.vercel.app/))**  
 - 📝 I regularly share updates on **[LinkedIn](https://www.linkedin.com/in/faisal-islam-shakib-98991b268/)**  
 - 📫 Feel free to reach me at **[Email](faisalshakib015@gmail.com)**  
 
